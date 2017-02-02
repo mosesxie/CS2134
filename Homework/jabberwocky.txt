@@ -1,0 +1,7 @@
+Moses 1 25.2
+Ned 5 321.2
+Theon 3 1.45
+Jon 12	532
+Thoros 2 3.45
+Sam 9 23.4
+Arya 17 493
